@@ -1,0 +1,45 @@
+.container 
+{
+	position:absolute;	
+	width:100%;
+}
+
+#first_slide,#second_slide,#third_slide
+{
+	width:90%;
+	margin-left:5%;
+	border-bottom: 2px solid grey;
+}
+
+#first_slide
+{
+	padding-top: 15%;
+	padding-bottom: 16%;
+}
+
+#second_slide #first
+{
+	margin-top: 4%;
+}
+
+#second_slide #second
+{
+	margin-top: 11%;
+	margin-bottom:5%;
+}
+
+#third_slide
+{
+	padding-top: 15%;
+	padding-bottom: 16%;
+}
+
+.keyword
+{
+	color: blue;
+}
+
+#start
+{
+	margin-left: 10%;
+}

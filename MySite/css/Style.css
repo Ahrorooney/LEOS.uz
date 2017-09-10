@@ -1,0 +1,204 @@
+/* CSS Document */
+.navbar
+{
+	margin-bottom: -1px;
+}
+
+#defaultNavbar1
+{
+	margin-right: 10px;
+}
+
+.userIcon
+{
+	margin-top: -5px;
+	width: 36px;
+	height: 35px;
+}
+
+.container
+{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	/*border: 2px solid #D2D2D2;*/
+}
+
+/*
+.carousel-caption{
+    position:static;
+	height: 145px;
+	color: black;
+	text-shadow: 5px 10px 20px rgba(155,154,154,1.00);
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+*/
+
+h4
+{
+	text-shadow: 5px 10px 20px rgba(155,154,154,1.00);
+}
+
+hr
+{
+	color: #d2d2d2;
+}
+
+.filestyle
+{
+	width: 50px;
+}
+
+.ampersand
+{
+	color: red;
+}
+/*------------------------ Index style ------------------------*/
+
+#body_div
+{
+	position: absolute;
+	width: 100%;
+	height: 92%;
+	background-color: #F5F5F5;
+}
+
+.middle_div
+{
+	margin-top:20%;
+}
+
+.leos_logo
+{
+	color: 	#1E90FF
+}
+
+#left_side .middle_div
+{
+	margin-top:15%;
+	font-size: 80px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#left_side .middle_div p
+{
+	font-size: 24px;
+}
+
+#LoginForm
+{
+	padding-top: 12px;
+}
+
+#bottom_div
+{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	padding-left: 37%;
+}
+
+#loginBut
+{
+	width: 130px;
+}
+
+/*------------------------ Task style ------------------------*/
+
+#task_panel
+{
+	margin-top: 24px;
+}
+
+.task_form
+{
+	padding-top: 24px;
+	border-top: 2px solid #D2D2D2;
+}
+
+.tab-pane
+{
+	padding-top: 20px;
+}
+
+.task_list,.task_card
+{
+	margin-top: 24px;
+}
+
+.task_card_head
+{
+	font-size: 18px;
+}
+
+.task_card
+{
+	margin-bottom: 12px;
+}
+
+.task_card_body
+{
+	border-right: 1px solid #d2d2d2;
+}
+
+.task_card_body, .task_card_img
+{
+	height: 75px;
+}
+
+.task_card_footer strong
+{
+	border-bottom: 1px solid #d2d2d2;
+}
+
+#prompt_div
+{
+	padding-left: 20px;
+	padding-top: 24px;
+}
+
+.ok_text_div
+{
+	color: green;
+}
+
+.notok_text_div
+{
+	color: red;
+}
+
+/*------------------------ Profile style ------------------------*/
+
+#UserInfoTable
+{
+	margin-top: 5px;
+}
+
+td
+{
+	width: 150px;
+}
+
+#bio
+{
+	padding-right: 100px;
+	width: 200px;
+}
+
+#edit_Profile_Button
+{
+	margin-left: 35%;
+}
+
+#input_img
+{
+	margin-top:15px;
+}
+
+#user_photo
+{
+	margin-left: -10px;
+	margin-right:20px;
+}
